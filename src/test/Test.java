@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("test4");
 		System.out.println("branch testing 1");
 		System.out.println("branch testing 2");
+		System.out.println("branch testing 3");
 	}
 
 }
